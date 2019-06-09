@@ -1,0 +1,67 @@
+body{
+    height: 900px;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    max-width: 100%;
+    background: #002c53;
+    height: 250px;
+    border: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.logo{
+    top: 20px;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+.slides{
+    height: 600px;
+}
+
+.rslides{
+    top: 60px;
+    max-width: 1000px;
+    max-height: 600px;
+    margin: 0 auto;
+    
+    
+}
+
+.rslides li{
+    max-width: 1000px;
+    max-height: 480px;
+}
+
+.descricao{
+    
+    background: rgba(0,0,0,.4);
+    color: white;
+    
+    font-family: sans-serif;
+    position: absolute;
+    height: 200px;
+    width: 100%;
+    top: 280px;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.descricao h1{
+    margin-bottom: 30px;
+    padding: 0px 50px;
+    font-size: 30px;
+}
+
+.descricao p{
+ text-align: left;
+ padding: 0px 50px;
+ font-size: 20px;
+}
+

@@ -1,0 +1,13 @@
+{
+  "name": "televisao",
+  "version": "1.0.0",
+  "description": "projeto televisão supermercado são sebastião",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinicios da costa oliveira",
+  "license": "ISC"
+}
