@@ -4,10 +4,22 @@
   "description": "projeto televisão supermercado são sebastião",
   "main": "script.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel scripts -d output"
   },
   "author": "vinicios da costa oliveira",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soycinvi/gh-pages-sstv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soycinvi/gh-pages-sstv/issues"
+  },
+  "homepage": "https://github.com/soycinvi/gh-pages-sstv#readme"
 }
